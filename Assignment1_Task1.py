@@ -1,7 +1,6 @@
 # Assignent-1
 
 # Task 1: Perform Basic Mathematical Operations
-
 print("Task 1: Perform Basic Mathematical Operations")
 a = int(input("Enter first number : "))
 b = int(input("Enter second number : "))
