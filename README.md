@@ -38,3 +38,16 @@ o   Square root of the number
 o   Natural logarithm (log base e) of the number
 o   Sine of the number (in radians)
 
+# Assignment - 4
+## Task 1: Read a File and Handle Errors 
+A Python program that:
+1.   Opens and reads a text file named 'Sample.txt'(Refer 'Sample.txt uploaded under 'Assignment-4').
+2.   Prints it's content line by line.
+3.   Handles errors if the file does not exist.
+
+## Task 2: Write and Append Data to a File
+A Python program that:
+1.   Takes user input and writes it to a file named 'Output.txt' (Refer 'Output.txt uploaded under 'Assignment-4').
+2.   Appends additional data to the same file.
+3.   Reads and displays the final content of the file.
+
