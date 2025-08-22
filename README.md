@@ -1,4 +1,4 @@
-PAUSED FOR SOME DAYS
+Resuming today
 
 # Assignment - 1
 ## Task 1 : A Python program that does the following:
