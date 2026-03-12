@@ -68,4 +68,4 @@ A Python program that:
 2.   Extracts the first five elements from the list.
 3.   Reverses these extracted elements.
 
-
+Continuing today.
